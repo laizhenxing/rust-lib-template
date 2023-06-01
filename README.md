@@ -1,5 +1,8 @@
 ![](https://github.com/laizhenxing/rust-lib-template/workflows/build/badge.svg)
 
+# fork
+Fork from: https://github.com/tyrchen/rust-lib-template
+
 # {{ project-name }}
 
 description about the crate
